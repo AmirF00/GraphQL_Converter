@@ -37,7 +37,7 @@ A command-line tool to convert GraphQL introspection results into a human‑read
 
   Clone the repository or download the script directly:
   ```bash
-  git clone [https://github.com/your-username/graphql-introspection-converter.git](https://github.com/AmirF00/GraphQL_Converter.git)
+  git clone https://github.com/your-username/graphql-introspection-converter.git
   cd GraphQL_Converter
   ```
 - **Usage**
